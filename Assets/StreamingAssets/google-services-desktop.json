@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "976285517661",
+    "firebase_url": "https://mias-8cb1b.firebaseio.com",
+    "project_id": "mias-8cb1b",
+    "storage_bucket": "mias-8cb1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976285517661:android:f7a8b9a4398d57c8340ab4",
+        "android_client_info": {
+          "package_name": "com.mias.itkub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976285517661-6s3l5pqhlkm21c14qtqo80mhp2o8353p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_r-76YjPmJoY_f75e0UBz5wrWXfatMDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976285517661-6s3l5pqhlkm21c14qtqo80mhp2o8353p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
